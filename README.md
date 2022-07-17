@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://raw.githubusercontent.com/Aditya9111/Tasko-Client/main/public/logo.jpg)
 
 Tasko is a Trello clone for productivity built using React, Redux and Chakra UI and Node, Mongodb, Express on Backend.
 
@@ -10,11 +10,11 @@ Tasko is a Trello clone for productivity built using React, Redux and Chakra UI 
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/Aditya9111/Tasko-Client/main/src/assets/img/1.png)
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/Aditya9111/Tasko-Client/main/src/assets/img/2.png)
 
-![App Screenshot]()
+
 
 ## Demo
 
