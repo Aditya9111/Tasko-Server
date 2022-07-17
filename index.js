@@ -19,7 +19,7 @@ app.use(express.json());
 app.get("/", (req, res) => {
   res.status(200).json({
     message: "Data fetched successfully.",
-    response: "Welcome to the Prollo API!",
+    response: "Welcome to the Tasko API!",
   });
 });
 
