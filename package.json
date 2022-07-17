@@ -15,7 +15,7 @@
     "express",
     "mongodb"
   ],
-  "author": "Wasif Baliyan",
+  "author": "Aditya Arya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",

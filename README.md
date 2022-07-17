@@ -18,7 +18,7 @@ Tasko is a Trello clone for productivity built using React, Redux and Chakra UI 
 
 ## Demo
 
-[Prollo Live](https://tasko.netlify.app/)
+[Tasko Live](https://tasko.netlify.app/)
 
 ## Run Locally
 
@@ -57,7 +57,7 @@ I'm a full stack Javascript Developer. I Love to build scalable applications usi
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/adityaarya1/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](bit.ly/adityaarya1/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya911)
 
 

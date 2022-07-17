@@ -9,8 +9,7 @@ const verifyAuthentication = require("./middlewares/auth.middleware");
 
 const app = express();
 const connectToDB = require("./db/db");
-const url =
-  "mongodb+srv://admin:admin@cluster0.hmy2uqo.mongodb.net/?retryWrites=true&w=majority";
+const url = process.env.DB_URL;
 
 connectToDB(url);
 
